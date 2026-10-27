@@ -1,2 +1,2 @@
 aiogram==3.4.1
-llama-cpp-python==0.2.56
+llama-cpp-python @ https://huggingface.co/datasets/AIencoder/llama-cpp-wheels/resolve/main/llama_cpp_python-0.3.18+basic_basic-cp314-cp314-manylinux_2_31_x86_64.whl
