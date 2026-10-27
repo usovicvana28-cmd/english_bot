@@ -1,0 +1,2 @@
+aiogram==3.4.1
+llama-cpp-python==0.2.56
